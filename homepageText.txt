@@ -1,0 +1,39 @@
+<Home Page>
+<Title>Early Human Migration Wiki
+<subtitle>Explore the journeys of of our ancestors across the globe
+<welcome Text>
+Welcome to the early human migration wiki! Here we will explore the exiting journeys made by the early human's migrations from Africa to every corner of the globe.
+From what are now harsh deserts of Afica, to the icy lans of the Americas, our ancestors traveled across vast distances populating the globe with our species.
+This wiki is designed to guide you through the major migrations events, supported by archaeological findings, genetic studies, and cultural stories passed down over time.
+<break>
+Learn how early humans migrated across the continents, peopled new lands, and left behind them scars which we are still finding today. We trust this journey will help you appreciate the resilience and ingenuity of our ancestors.
+
+?map of human migration patterns?
+
+[Main Links Section]
+
+Explore Key Migration Events:
+
+	•	Out of Africa
+	•	Into Asia
+	•	Settling Australia and the Pacific
+	•	Peopling of Europe
+	•	To the Americas
+
+[Additional Sections]
+
+Key Themes in Migration
+
+	•	Tools and Cultural Evolution: How migration shaped technology and cultural practices.
+	•	Impact on Ecosystems: The environmental footprint of early humans.
+
+Resources
+
+	•	Glossary: Key terms and concepts for understanding early human migration.
+	•	Timeline: Major milestones in human migration.
+	•	Interactive Map: Visualize migration routes across continents.
+
+[Footer]
+
+	•	Project created by [Your Name]
+	•	Link to “The Statement”: Explanation of this project for anthropology class.
